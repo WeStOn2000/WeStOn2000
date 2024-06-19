@@ -7,7 +7,7 @@
 - ⚡ Fun fact:  I'm a avid explorer who thrives on discovery learning in both programming and psychology.
    I enjoy delving into complex coding challenges and exploring the intricacies of the human mind.
 -  Beyond that, you'll often find me immersed in a good book, feeding my endless curiosity.
--  Let's embark on a journey of code, cognition, and captivating stories together!
+-  Let's embark on a journey of code, cognition, and explore the world of progamming together!
 
 <!---
 WeStOn2000/WeStOn2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
