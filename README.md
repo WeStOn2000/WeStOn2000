@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Weston Rwigema
 - 👀 I’m interested in Full Stack JavaScript Development..
-- 🌱 I’m currently learning dynamic web applications using modern frameworks and libraries like Node.js, Express and React.
+- 🌱 I’m currently learning dynamic web applications using modern frameworks and libraries like  React.
 - 💞️ I’m looking to collaborate on coding, problem-solving, and constantly learning new technologies to enhance my skills..
 - 📫 How to reach me 613 220 7156...
 - 😄 Pronouns: he/him
