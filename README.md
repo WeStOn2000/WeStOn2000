@@ -3,10 +3,8 @@
 - 🛠️And building a full stack web app portfolio and practicing more Code Challenges..
 - 🤝🏾I’m looking to collaborate on coding, problem-solving, and constantly learning new technologies to enhance my skills..
 - 📫 How to reach me +1 613 220 7156...
-- 🙂Fun fact:  I'm a avid explorer who thrives on discovery learning in both programming and psychology.
-   I enjoy delving into complex coding challenges and exploring the intricacies of the human mind.
--  Beyond that, you'll often find me immersed in a good book, feeding my endless curiosity.
--  Let's embark on a journey of code, cognition, and explore the world of progamming together!
+- 🙂Fun fact:  I'm a avid explorer who thrives on discovery learning in both programming and psychology
+- 🤩Let's embark on a journey of code, cognition, and explore the world of progamming together!
 
 ## Tech Stack💻👾
 
