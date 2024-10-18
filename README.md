@@ -10,8 +10,3 @@
 -  Beyond that, you'll often find me immersed in a good book, feeding my endless curiosity.
 -  Let's embark on a journey of code, cognition, and explore the world of progamming together!
 
-## Tech Stack
-- JavaScript
-- React
-- Node.js
-
