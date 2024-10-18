@@ -26,4 +26,5 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=postman&logoColor=white)
 
-
+## Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WeStOn2000)
