@@ -10,7 +10,8 @@
 -  Beyond that, you'll often find me immersed in a good book, feeding my endless curiosity.
 -  Let's embark on a journey of code, cognition, and explore the world of progamming together!
 
-<!---
-WeStOn2000/WeStOn2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Tech Stack
+- JavaScript
+- React
+- Node.js
+
