@@ -1,7 +1,7 @@
 
 Hey there! 👋
 
-Welcome to my GitHub, where code, coffee, and occasional chaos come together! ☕💻 I'm Weston, a full stack JavaScript developer,
+Welcome to my GitHub, where code and occasional chaos come together! ☕💻 I'm Weston, a full stack JavaScript developer,
 navigating the world of web development with React, Node, and a sprinkle of SQLite magic. 
 Feel free to dive into my projects, where you'll find everything from slick UIs to well-tested APIs (and maybe a bug or two I’m pretending to not see 👀).
 Whether you're here to explore, collaborate, or just see what I’m up to—enjoy the ride!
