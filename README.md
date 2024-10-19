@@ -1,10 +1,12 @@
-- 😁Hi, I’m Weston Rwigema a developer and life long learner.
-- 🧐I’m currently learning dynamic web applications using modern frameworks, databases and libraries like  React, SQL and Rest Api.
-- 🛠️And building a full stack web app portfolio and practicing more Code Challenges..
-- 🤝🏾I’m looking to collaborate on coding, problem-solving, and constantly learning new technologies to enhance my skills..
-- 📫 How to reach me +1 613 220 7156...
-- 🙂Fun fact:  I'm a avid explorer who thrives on discovery learning in both programming and psychology
-- 🤩Let's embark on a journey of code, cognition, and explore the world of progamming together!
+
+Hey there! 👋
+
+Welcome to my GitHub, where code, coffee, and occasional chaos come together! ☕💻 I'm Weston, a full stack JavaScript developer,
+navigating the world of web development with React, Node, and a sprinkle of SQLite magic. 
+Feel free to dive into my projects, where you'll find everything from slick UIs to well-tested APIs (and maybe a bug or two I’m pretending to not see 👀).
+Whether you're here to explore, collaborate, or just see what I’m up to—enjoy the ride!
+
+P.S. I’m always learning, so buckle up—it’s going to be fun! 🚀✨
 
 ## Tech Stack💻👾
 
