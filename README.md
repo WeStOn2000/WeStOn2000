@@ -1,14 +1,14 @@
 
-Hey there! 👋
+**##WELCOME!**
 
-Welcome to my GitHub, where code and occasional chaos come together! ☕💻 I'm Weston, a full stack JavaScript developer,
+**Welcome to my GitHub, where code and occasional chaos come together! ☕💻 I'm Weston, a full stack JavaScript developer,
 navigating the world of web development with React, Node, and a sprinkle of SQLite magic. 
 Feel free to dive into my projects, where you'll find everything from slick UIs to well-tested APIs (and maybe a bug or two I’m pretending to not see 👀).
-Whether you're here to explore, collaborate, or just see what I’m up to—enjoy the ride!
+Whether you're here to explore, collaborate, or just see what I’m up to—enjoy the ride!**
 
-P.S. I’m always learning, so buckle up—it’s going to be fun! 🚀✨
+**P.S. I’m always learning, so buckle up—it’s going to be fun! 🚀✨**
 
-## Tech Stack💻👾
+**## Tech Stack💻👾**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
