@@ -8,6 +8,67 @@ Whether you're here to explore, collaborate, or just see what I’m up to—enjo
 
 **P.S. I’m always learning, so buckle up—it’s going to be fun! 🚀✨**
 
+**Full Stack JavaScript Developer | Open to Work Immediately**
+
+Hi! I'm Weston Rwigema, a dedicated and passionate Full Stack JavaScript Developer based in **Ottawa, Ontario, Canada**. I specialize in building dynamic, scalable web applications using modern technologies like **React**, **Node.js**, **Express**, and **SQLite**. With a strong foundation in both front-end and back-end development, I am eager to bring my skills to a collaborative team and take on new challenges.
+
+---
+
+### 🚀 Skills and Technologies
+
+- **Languages:** JavaScript, HTML, CSS
+- **Frameworks & Libraries:** React, Node.js, Express
+- **Database Technologies:** SQLite, SQL, Sequelize
+- **Tools & Platforms:** Git, GitHub, Postman, VS Code, Tailwind CSS, REST APIs
+
+I am also comfortable working with other tools and technologies as needed, and I'm always eager to learn new things.
+
+---
+
+### 👨‍💻 About Me
+
+I completed a **Full Stack JavaScript Development Tech Degree** from Team Treehouse in 2024, where I gained experience in building full-stack projects, 
+including RESTful APIs, authentication systems, and dynamic web apps.
+I have worked with technologies like **React** for the front-end and **Node.js** with **Express** for back-end development.
+
+I'm a quick learner, an excellent problem solver, and I bring strong communication and collaboration skills to any team. 
+Whether you're looking for someone to jump in and start contributing immediately or a developer to grow within your company, 
+I'm ready to make an impact!
+
+---
+
+### 📍 Location
+
+I am currently based in **Ottawa, Ontario, Canada**, and am open to **hybrid** or **remote** work opportunities.
+
+---
+
+### 📞 Contact Information
+
+- **Phone:** 613-220-7156
+- **Email:** tonytany53@gmail.com
+- **LinkedIn:** [Weston Rwigema](linkedin.com/in/weston-rwigema-3029082b3)
+  
+---
+
+### 🔍 Open to Work
+
+I am **actively seeking full-time opportunities** as a **Junior or Entry-Level Developer** and am available to **start immediately**. 
+If you are looking for a passionate developer who is eager to learn, adapt, and contribute, feel free to reach out!
+
+---
+
+### 🌱 Current Projects
+
+I am currently working on a **Full Stack Profile Project** using **React**, **Node.js**, **Express**, and **Tailwind CSS** that showcases my skills in both front-end and back-end development, 
+with a focus on building user-friendly and dynamic web applications.
+
+---
+
+### 📂 GitHub Projects
+Feel free to connect with me or collaborate on any open-source projects!
+
+
 **## Tech Stack💻👾**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?style=for-the-badge&logo=javascript&logoColor=white)
