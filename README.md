@@ -47,7 +47,7 @@ I am currently based in **Ottawa, Ontario, Canada**, and am open to **hybrid** o
 
 - **Phone:** 613-220-7156
 - **Email:** tonytany53@gmail.com
-- **LinkedIn:** [Weston Rwigema](linkedin.com/in/weston-rwigema-3029082b3)
+- **LinkedIn:** [Weston Rwigema](https://www.linkedin.com/in/weston-rwigema-3029082b3/)
   
 ---
 
