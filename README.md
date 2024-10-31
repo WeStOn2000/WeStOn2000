@@ -4,16 +4,7 @@
 
 Hi! I'm Weston Rwigema, a dedicated and passionate Full Stack JavaScript Developer. I specialize in building dynamic, scalable web applications using modern technologies like **React**, **Javascript**, **Node.js**, **Express**, and **SQLite**. With a strong foundation in both front-end and back-end development, I am eager to bring my skills to a collaborative team and take on new challenges.
 
-### 🚀 Skills and Technologies
-
-- **Languages:** JavaScript, HTML, CSS
-- **Frameworks & Libraries:** React, Node.js, Express
-- **Database Technologies:** SQLite, SQL, Sequelize
-- **Tools & Platforms:** Git, GitHub, Postman, VS Code, Tailwind CSS, REST APIs
-
-I am also comfortable working with other tools and technologies as needed, and I'm always eager to learn new things.
-
----
+**I am also comfortable working with other tools and technologies as needed, and I'm always eager to learn new things.**
 
 ### 📍 Location
 
