@@ -10,7 +10,7 @@ Whether you're here to explore, collaborate, or just see what I’m up to—enjo
 
 **Full Stack JavaScript Developer | Open to Work Immediately**
 
-Hi! I'm Weston Rwigema, a dedicated and passionate Full Stack JavaScript Developer based in **Ottawa, Ontario, Canada**. I specialize in building dynamic, scalable web applications using modern technologies like **React**, **Node.js**, **Express**, and **SQLite**. With a strong foundation in both front-end and back-end development, I am eager to bring my skills to a collaborative team and take on new challenges.
+Hi! I'm Weston Rwigema, a dedicated and passionate Full Stack JavaScript Developer based in **Ottawa, Ontario, Canada**. I specialize in building dynamic, scalable web applications using modern technologies like **React**, **Javascript**, **Node.js**, **Express**, and **SQLite**. With a strong foundation in both front-end and back-end development, I am eager to bring my skills to a collaborative team and take on new challenges.
 
 ---
 
