@@ -1,18 +1,8 @@
+**Welcome to my GitHub, where code and occasional chaos come together!**
 
-**##WELCOME!**
+**Full Stack JavaScript Developer**
 
-**Welcome to my GitHub, where code and occasional chaos come together! ☕💻 I'm Weston, a full stack JavaScript developer,
-navigating the world of web development with React, Node, and a sprinkle of SQLite magic. 
-Feel free to dive into my projects, where you'll find everything from slick UIs to well-tested APIs (and maybe a bug or two I’m pretending to not see 👀).
-Whether you're here to explore, collaborate, or just see what I’m up to—enjoy the ride!**
-
-**P.S. I’m always learning, so buckle up—it’s going to be fun! 🚀✨**
-
-**Full Stack JavaScript Developer | Open to Work Immediately**
-
-Hi! I'm Weston Rwigema, a dedicated and passionate Full Stack JavaScript Developer based in **Ottawa, Ontario, Canada**. I specialize in building dynamic, scalable web applications using modern technologies like **React**, **Javascript**, **Node.js**, **Express**, and **SQLite**. With a strong foundation in both front-end and back-end development, I am eager to bring my skills to a collaborative team and take on new challenges.
-
----
+Hi! I'm Weston Rwigema, a dedicated and passionate Full Stack JavaScript Developer. I specialize in building dynamic, scalable web applications using modern technologies like **React**, **Javascript**, **Node.js**, **Express**, and **SQLite**. With a strong foundation in both front-end and back-end development, I am eager to bring my skills to a collaborative team and take on new challenges.
 
 ### 🚀 Skills and Technologies
 
@@ -25,23 +15,9 @@ I am also comfortable working with other tools and technologies as needed, and I
 
 ---
 
-### 👨‍💻 About Me
-
-I completed a **Full Stack JavaScript Development Tech Degree** from Team Treehouse in 2024, where I gained experience in building full-stack projects, 
-including RESTful APIs, authentication systems, and dynamic web apps.
-I have worked with technologies like **React** for the front-end and **Node.js** with **Express** for back-end development.
-
-I'm a quick learner, an excellent problem solver, and I bring strong communication and collaboration skills to any team. 
-Whether you're looking for someone to jump in and start contributing immediately or a developer to grow within your company, 
-I'm ready to make an impact!
-
----
-
 ### 📍 Location
 
-I am currently based in **Ottawa, Ontario, Canada**, and am open to **hybrid** or **remote** work opportunities.
-
----
+I am currently based in **Canada**, and am open to **hybrid** or **remote** work opportunities.
 
 ### 📞 Contact Information
 
@@ -52,11 +28,6 @@ I am currently based in **Ottawa, Ontario, Canada**, and am open to **hybrid** o
 ---
 
 ### 🔍 Open to Work
-
-I am **actively seeking full-time opportunities** as a **Junior or Entry-Level Developer** and am available to **start immediately**. 
-If you are looking for a passionate developer who is eager to learn, adapt, and contribute, feel free to reach out!
-
----
 
 ### 🌱 Current Projects
 
