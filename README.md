@@ -21,8 +21,8 @@ I am currently based in **Canada**, and am open to **hybrid** or **remote** work
 ### 🔍 Open to Work
 
 ### 🌱 Current Projects
-
-I am currently working on a **Full Stack Profile Project** using **React**, **Node.js**, **Express**, and **Tailwind CSS** that showcases my skills in both front-end and back-end development, 
+I am  currenctly learning typescript and Next.js,
+And working on a **Full Stack Profile Project** using **React**, **Node.js**, **SQL**, **Express**, and **Tailwind CSS** that showcases my skills in both front-end and back-end development, 
 with a focus on building user-friendly and dynamic web applications.
 
 ---
