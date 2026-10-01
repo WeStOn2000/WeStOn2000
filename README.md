@@ -4,7 +4,7 @@
 
 Full-Stack JavaScript Developer currently expanding into **Cybersecurity, Networking, Linux, and Application Security**.
 
-📍 Hamilton, Ontario, Canada
+📍Ontario, Canada
 
 ---
 
@@ -39,7 +39,7 @@ Full-Stack JavaScript Developer currently expanding into **Cybersecurity, Networ
 
 🛡️ Cybersecurity Fundamentals • 🌐 Networking • 🐧 Linux • 🔎 TryHackMe • 🔐 Application Security
 
-📂 **Cybersecurity Journey:** [View Repository](YOUR-REPOSITORY-LINK)
+📂 **Cybersecurity Journey:** [View Repository](https://github.com/WeStOn2000/cybersecurity-journey)
 
 ---
 
