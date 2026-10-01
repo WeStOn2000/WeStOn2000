@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Weston Rwigema
-
 ### 💻 Full-Stack Developer → 🛡️ Cybersecurity
 
 Full-Stack JavaScript Developer currently expanding into **Cybersecurity, Networking, Linux, and Application Security**.
